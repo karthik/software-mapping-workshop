@@ -1,6 +1,6 @@
 # Mapping the Research Software Ecosystem
 
-[![](https://i.imgur.com/WOVqMs1.png)](https://inundata.org/talks/eoss-software-map/)
+[![](https://i.imgur.com/9lKLjNC.png)](https://inundata.org/talks/eoss-software-map/)
 
 
 
