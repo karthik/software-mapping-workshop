@@ -1,5 +1,5 @@
 # Mapping the Research Software Ecosystem
-CZI workshop, December 9th, 2020
+CZI workshop, December 9th, 2020, 11:30am 
 
 [![](https://i.imgur.com/Qwwq9Ia.png)](https://inundata.org/talks/eoss-software-map/)
 
