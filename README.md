@@ -3,6 +3,7 @@ CZI workshop, December 9th, 2020
 
 [![](https://i.imgur.com/Qwwq9Ia.png)](https://inundata.org/talks/eoss-software-map/)
 
+🖼️ Slides: [https://inundata.org/talks/eoss-software-map/](https://inundata.org/talks/eoss-software-map/)
 
 # Questions and notes
 
