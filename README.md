@@ -33,4 +33,8 @@ CZI workshop, December 9th, 2020, 11:30am
 
 ---
 
+## Recommended reading
+
+- [CHAOSS project](https://chaoss.community/about/)
+
 Got additional questions after the workshop? Email us at `karthik.ram@berkeley.edu` and `jhowison@ischool.utexas.edu`
