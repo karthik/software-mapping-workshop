@@ -5,7 +5,8 @@ CZI workshop, December 9th, 2020, 11:30am
 
 
 
-🖼️ Slides: [https://inundata.org/talks/eoss-software-map/](https://inundata.org/talks/eoss-software-map/)
+🖼️ Slides: [https://inundata.org/talks/eoss-software-map/](https://inundata.org/talks/eoss-software-map/)  
+📑 [PDF copy of slides](https://github.com/karthik/software-mapping-workshop/blob/main/mapping_the_research_software_ecosystem.pdf)
 
 # Questions and notes
 
